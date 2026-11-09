@@ -116,4 +116,5 @@ $remaining = $MAX_ATTEMPTS - count($_SESSION['attempts']);
 </div>
 
 </body>
+<body style="background-color: gray;">
 </html>
